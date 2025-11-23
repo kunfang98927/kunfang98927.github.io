@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alex Johnson
+title: Kun Fang
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: ""
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Kun
+last_name: Fang
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
@@ -23,150 +23,162 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD Student in Music Technology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: McGill University (CIRMMT / DDMAL)
+    url: https://ddmal.ca/lab_members/phd/kun_fang/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: "mailto:kun.fang@mail.mcgill.ca"
+    label: Academic Email
+  - icon: at-symbol
+    url: "mailto:fangk3740@gmail.com"
+    label: Personal Email
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/kunfang98927
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/kun-fang-877a04203/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.ca/citations?user=S09YfQYAAAAJ
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Music Information Retrieval (MIR)
+  - Symbolic & Audio Music Analysis
+  - Large Language Models for Music Understanding
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Music Technology
+    institution: McGill University
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2024-02-01
+    date_end: ""
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      Doctoral studies in Music Technology at McGill (CIRMMT / DDMAL). Advisor: Prof. Ichiro Fujinaga.
+  - area: MSc Acoustics and Music Technology (Distinction)
+    institution: University of Edinburgh
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2020-09-01
+    date_end: 2021-11-30
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      Graduated with Distinction. Dissertation: "A New Key-finding Model Suitable for Humming Based on LSTM" (Grade A). Supervisor: Prof. Mark Steedman.
+  - area: BEng Software Engineering
+    institution: East China Normal University
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+    date_start: 2016-09-01
+    date_end: 2020-06-30
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    icon: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+  - position: Research Assistant
+    company_name: McGill University
+    # company_url: "https://www.mcgill.ca/"
+    icon: ""
+    date_start: 2024-02-01
+    date_end: ""
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Working under Prof. Ichiro Fujinaga on Music Information Retrieval (beat tracking, key detection) and evaluation with LLMs.
+  - position: Research Assistant
+    company_name: Mohamed bin Zayed University of Artificial Intelligence
+    # company_url: "https://mbzuai.ac.ae/"
+    icon: ""
+    date_start: 2022-06-01
+    date_end: 2024-05-31
+    summary: |
+      Worked with Prof. Gus Xia on symbolic music analysis and representation learning.
+  - position: Research Associate (Computer Science)
+    company_name: New York University Shanghai (Music X Lab)
+    # company_url: "https://shanghai.nyu.edu/"
+    icon: ""
+    date_start: 2021-11-01
+    date_end: 2022-06-30
+    summary: |
+      Research in Music Information Retrieval focusing on symbolic beat tracking.
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+# # Skills
+# # Add your own SVG icons to `assets/media/icons/`
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python & PyTorch
+#         description: ""
+#         percent: 95
+#         icon: code-bracket
+#       - name: Machine Learning
+#         description: ""
+#         percent: 100
+#         icon: chart-bar
+#       - name: Cloud Computing (AWS/GCP)
+#         description: ""
+#         percent: 85
+#         icon: cloud
+#   - name: Hobbies
+#     color: "#eeac02"
+#     color_border: "#f0bf23"
+#     items:
+#       - name: Hiking in the Rockies
+#         description: ""
+#         percent: 80
+#         icon: person-simple-walk
+#       - name: Building Custom PCs
+#         description: ""
+#         percent: 90
+#         icon: cpu-chip
+#       - name: Sci-Fi Reading
+#         description: ""
+#         percent: 70
+#         icon: book-open
 
-languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Chinese (Mandarin)
+#     percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: CIRMMT Travel Award
+    date: "2025-09-01"
+    awarder: CIRMMT
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+      Travel support for presenting research in ISMIR 2025.
+  - title: Distinction Award (Master Degree)
+    date: "2021-11-01"
+    awarder: University of Edinburgh
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Graduated with Distinction in Acoustics and Music Technology MSc program.
+  # - title: First Prize Scholarship (Excellent Student)
+  #   date: "2018-11-01"
+  #   awarder: East China Normal University
+  #   icon: hero/trophy
+  #   summary: |
+  #     Awarded for academic excellence (Top performance, merit-based).
+  # - title: Excellent Student Award
+  #   date: "2017-12-01"
+  #   awarder: East China Normal University
+  #   icon: hero/trophy
+  #   summary: |
+  #     Recognized for sustained academic performance.
+  # - title: Second Prize - Zhixing Cup Social Practice Competition
+  #   date: "2017-10-01"
+  #   awarder: Shanghai Undergraduate Competition
+  #   icon: hero/trophy
+  #   summary: |
+  #     Awarded for excellence in a city-wide social practice project.
+  # - title: Minzhongcaihang Scholarship & Social Practice Prize
+  #   date: "2017-10-01"
+  #   awarder: East China Normal University
+  #   icon: hero/currency-dollar
+  #   summary: |
+  # Scholarship recognizing outstanding social practice contributions.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+<!-- Kun Fang is a PhD student in Music Technology at McGill University (CIRMMT / DDMAL). Her research interests include Music Information Retrieval, beat tracking, key detection, query-by-humming, and leveraging Large Language Models for music understanding and evaluation. She has prior research experience at MBZUAI and NYU Shanghai (Music X Lab). She is passionate about bridging symbolic and audio perspectives in music analysis and building multilingual, accessible MIR resources. -->
