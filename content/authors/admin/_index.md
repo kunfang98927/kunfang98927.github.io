@@ -30,15 +30,17 @@ organizations:
   - name: McGill University (CIRMMT / DDMAL)
     url: https://ddmal.ca/lab_members/phd/kun_fang/
 
+email: kun.fang@mail.mcgill.ca / fangk3740@gmail.com
+
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: "mailto:kun.fang@mail.mcgill.ca"
-    label: Academic Email
-  - icon: at-symbol
-    url: "mailto:fangk3740@gmail.com"
-    label: Personal Email
+  # - icon: at-symbol
+  #   url: "mailto:kun.fang@mail.mcgill.ca"
+  #   label: Academic Email
+  # - icon: at-symbol
+  #   url: "mailto:fangk3740@gmail.com"
+  #   label: Personal Email
   - icon: brands/github
     url: https://github.com/kunfang98927
   - icon: brands/linkedin
