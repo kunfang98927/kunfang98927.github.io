@@ -80,7 +80,7 @@ work:
     date_start: 2024-02-01
     date_end: ""
     summary: |
-      Working under Prof. Ichiro Fujinaga on Music Information Retrieval (beat tracking, key detection) and evaluation with LLMs.
+      Working under Prof. Ichiro Fujinaga on Music Information Retrieval and LLM for Music Analysis.
   - position: Research Assistant
     company_name: Mohamed bin Zayed University of Artificial Intelligence
     # company_url: "https://mbzuai.ac.ae/"
@@ -90,13 +90,13 @@ work:
     summary: |
       Worked with Prof. Gus Xia on symbolic music analysis and representation learning.
   - position: Research Associate (Computer Science)
-    company_name: New York University Shanghai (Music X Lab)
+    company_name: New York University Shanghai
     # company_url: "https://shanghai.nyu.edu/"
     icon: ""
     date_start: 2021-11-01
     date_end: 2022-06-30
     summary: |
-      Research in Music Information Retrieval focusing on symbolic beat tracking.
+      Worked with Prof. Gus Xia; Research in Music Information Retrieval focusing on symbolic beat tracking.
 
 # # Skills
 # # Add your own SVG icons to `assets/media/icons/`
