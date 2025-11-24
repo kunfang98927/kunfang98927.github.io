@@ -28,10 +28,10 @@ hugoblox:
 links:
   - type: pdf
     url: ""
-  - type: code
-    url: ""
-  - type: dataset
-    url: ""
+#   - type: code
+#     url: ""
+#   - type: dataset
+#     url: ""
 
 image:
   caption: ""
