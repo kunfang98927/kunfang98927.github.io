@@ -30,9 +30,6 @@ hugoblox:
     citation_count: 1
 
 links:
-  - type: preprint
-    provider: arxiv
-    id: 2507.04230
   - type: pdf
     url: https://arxiv.org/pdf/2507.04230
   - type: code

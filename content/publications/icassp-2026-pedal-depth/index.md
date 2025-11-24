@@ -39,9 +39,6 @@ hugoblox:
 
 # Links: add PDF when available
 links:
-  - type: preprint
-    provider: arxiv
-    id: 2510.03750
   - type: pdf
     url: https://arxiv.org/pdf/2510.03750
   - type: code
