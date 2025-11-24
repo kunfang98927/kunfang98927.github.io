@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: "© {year} Kun Fang. This work is licensed under {license}"
+    notice: "© {year} Kun Fang."
     # license:
     #   enable: true
     #   allow_derivatives: false
