@@ -27,7 +27,7 @@ role: "PhD Student in Music Technology"
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: McGill University ([CIRMMT](https://www.cirmmt.org/en/) / [DDMAL](https://ddmal.ca/))
+  - name: McGill University (CIRMMT / DDMAL)
     url: https://ddmal.ca/lab_members/phd/kun_fang/
   - name: kun.fang [at] mail.mcgill.ca
   # - name: fangk3740@gmail.com
