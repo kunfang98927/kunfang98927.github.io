@@ -13,7 +13,7 @@ publication_types: ["paper-conference"]
 publication: "In Proceedings of the International Society for Music Information Retrieval Conference (ISMIR) 2024, San Francisco, United States"
 publication_short: "ISMIR 2024"
 
-date: "2024-01-01T00:00:00Z"
+date: "2024-06-30"
 
 featured: true
 

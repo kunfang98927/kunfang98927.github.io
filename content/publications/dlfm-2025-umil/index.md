@@ -14,7 +14,7 @@ publication_types: ["paper-conference"]
 publication: "In Proceedings of the International Conference on Digital Libraries for Musicology (DLfM) 2025, Seoul, South Korea"
 publication_short: "DLfM 2025"
 
-date: "2025-01-01T00:00:00Z"
+date: "2025-07-01"
 
 featured: false
 draft: false

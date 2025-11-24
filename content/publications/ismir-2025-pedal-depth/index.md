@@ -14,7 +14,7 @@ publication: "In Proceedings of the International Society for Music Information 
 publication_short: "ISMIR 2025"
 
 # Use year placeholder; update exact date later
-date: "2025-01-01T00:00:00Z"
+date: "2025-06-30"
 
 featured: true
 draft: false

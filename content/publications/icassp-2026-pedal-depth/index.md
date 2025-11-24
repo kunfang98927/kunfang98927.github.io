@@ -9,7 +9,7 @@ authors:
 
 # Use a near-future date so it sorts above older items
 # Adjust once accepted/published.
-date: "2025-11-23T00:00:00Z"
+date: "2025-09-20"
 
 # Publication type from CSL
 # For conference submissions, use paper-conference
