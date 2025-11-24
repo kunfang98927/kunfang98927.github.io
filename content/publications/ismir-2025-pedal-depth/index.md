@@ -14,7 +14,8 @@ publication: "In Proceedings of the International Society for Music Information 
 publication_short: "ISMIR 2025"
 
 # Use year placeholder; update exact date later
-# date: "2025-06-30"
+date: "2025-06-30T00:00:00Z"
+publishDate: "2025-06-30T00:00:00Z"
 
 featured: true
 draft: false
@@ -30,7 +31,8 @@ summary: ""
 #     citation_count: 1
 
 links:
-  - type: paper
+  - type: custom
+    label: paper
     url: https://arxiv.org/pdf/2507.04230
   - type: code
     url: https://github.com/kunfang98927/PedalDetection

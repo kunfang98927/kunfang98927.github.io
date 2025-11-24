@@ -13,7 +13,8 @@ publication_types: ["paper-conference"]
 publication: "In Proceedings of the International Society for Music Information Retrieval Conference (ISMIR) 2024, San Francisco, United States"
 publication_short: "ISMIR 2024"
 
-# date: "2024-06-30"
+date: "2024-06-30T00:00:00Z"
+publishDate: "2024-06-30T00:00:00Z"
 
 featured: true
 
@@ -29,7 +30,8 @@ hugoblox:
 #     citation_count: 1
 
 links:
-  - type: paper
+  - type: custom
+    label: paper
     url: https://zenodo.org/records/14877499
     # url: https://arxiv.org/pdf/2501.13261
   - type: code

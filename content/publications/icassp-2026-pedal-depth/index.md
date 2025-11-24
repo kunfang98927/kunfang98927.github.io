@@ -9,7 +9,8 @@ authors:
 
 # Use a near-future date so it sorts above older items
 # Adjust once accepted/published.
-# date: "2025-09-20"
+date: "2025-09-20T00:00:00Z"
+publishDate: "2025-09-20T00:00:00Z"
 
 # Publication type from CSL
 # For conference submissions, use paper-conference
@@ -39,7 +40,8 @@ summary: "Submission to ICASSP 2026 on pedal depth estimation and evaluation met
 
 # Links: add PDF when available
 links:
-  - type: paper
+  - type: custom
+    label: paper
     url: https://arxiv.org/pdf/2510.03750
 #   - type: code
 #     url: ""

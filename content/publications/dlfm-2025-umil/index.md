@@ -14,7 +14,10 @@ publication_types: ["paper-conference"]
 publication: "In Proceedings of the International Conference on Digital Libraries for Musicology (DLfM) 2025, Seoul, South Korea"
 publication_short: "DLfM 2025"
 
-# date: "2025-07-01"
+date: "2025-07-01T00:00:00Z"
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2025-07-01T00:00:00Z"
 
 featured: false
 draft: false
@@ -28,7 +31,8 @@ hugoblox:
 links:
   - type: poster
     url: "https://dlfm.web.ox.ac.uk/sites/default/files/dlfm/documents/media/2025-poster-fang.pdf"
-  - type: website
+  - type: custom
+    label: website
     url: "https://umil.linkedmusic.ca/"
   - type: code
     url: "https://github.com/DDMAL/UMIL"
