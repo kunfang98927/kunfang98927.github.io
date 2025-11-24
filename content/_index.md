@@ -13,13 +13,13 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: "This is text."
+      # text: "This is text."
       # # Show a call-to-action button under your biography? (optional)
       # button:
       #   text: Download CV
       #   url: uploads/resume.pdf
       headings:
-        about: "This is about me."
+        # about: "This is about me."
         education: ""
         interests: ""
     design:
