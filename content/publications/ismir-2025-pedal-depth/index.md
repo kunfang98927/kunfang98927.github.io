@@ -23,15 +23,24 @@ abstract: ""
 summary: ""
 
 hugoblox:
-  ids: {}
+  ids:
+    arxiv: 2507.04230
+  # Optional custom metrics
+  extra:
+    citation_count: 1
 
 links:
+  - type: preprint
+    provider: arxiv
+    id: 2507.04230
   - type: pdf
-    url: ""
+    url: https://arxiv.org/pdf/2507.04230
   - type: code
-    url: ""
+    url: https://github.com/kunfang98927/PedalDetection
   - type: dataset
-    url: ""
+    url: https://zenodo.org/records/15659089
+  - type: video
+    url: https://www.youtube.com/watch?v=OsxtvEiA1mA&t=8s
 
 image:
   caption: ""

@@ -32,13 +32,18 @@ summary: "Submission to ICASSP 2026 on pedal depth estimation and evaluation met
 
 # Identifiers (none yet)
 hugoblox:
-  ids: {}
+  ids:
+    arxiv: 2510.03750
+  extra:
+    citation_count: 0
 
 # Links: add PDF when available
 links:
   - type: preprint
-    label: "Manuscript (coming soon)"
-    url: ""
+    provider: arxiv
+    id: 2510.03750
+  - type: pdf
+    url: https://arxiv.org/pdf/2510.03750
   - type: code
     url: ""
   - type: dataset
