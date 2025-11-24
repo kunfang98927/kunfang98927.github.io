@@ -49,7 +49,7 @@ footer:
 
 # Localization
 locale:
-  date_format: "Nov 23, 2025"
+  date_format: "2006-01"
   time_format: "5:48 PM"
 
 # Site features
