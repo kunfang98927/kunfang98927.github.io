@@ -30,7 +30,7 @@ summary: ""
 #     citation_count: 1
 
 links:
-  - type: pdf
+  - type: paper
     url: https://arxiv.org/pdf/2507.04230
   - type: code
     url: https://github.com/kunfang98927/PedalDetection

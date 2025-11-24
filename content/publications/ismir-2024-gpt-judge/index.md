@@ -29,7 +29,7 @@ summary: ""
 #     citation_count: 1
 
 links:
-  - type: pdf
+  - type: paper
     url: https://arxiv.org/pdf/2501.13261
   - type: code
     url: https://github.com/kunfang98927/gpt-eval-mir

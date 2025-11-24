@@ -39,7 +39,7 @@ summary: "Submission to ICASSP 2026 on pedal depth estimation and evaluation met
 
 # Links: add PDF when available
 links:
-  - type: pdf
+  - type: paper
     url: https://arxiv.org/pdf/2510.03750
 #   - type: code
 #     url: ""

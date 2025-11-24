@@ -26,12 +26,12 @@ hugoblox:
   ids: {}
 
 links:
-  - type: pdf
-    url: ""
-#   - type: code
-#     url: ""
-#   - type: dataset
-#     url: ""
+  - type: poster
+    url: "https://dlfm.web.ox.ac.uk/sites/default/files/dlfm/documents/media/2025-poster-fang.pdf"
+  - type: website
+    url: "https://umil.linkedmusic.ca/"
+  - type: code
+    url: "https://github.com/DDMAL/UMIL"
 
 image:
   caption: ""
