@@ -23,14 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student in Music Technology
+role: "PhD Student in Music Technology<br/><span class='text-sm'><a href='mailto:kun.fang@mail.mcgill.ca'>kun.fang@mail.mcgill.ca</a> | <a href='mailto:fangk3740@gmail.com'>fangk3740@gmail.com</a></span>"
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: McGill University (CIRMMT / DDMAL)
     url: https://ddmal.ca/lab_members/phd/kun_fang/
-
-email: kun.fang@mail.mcgill.ca / fangk3740@gmail.com
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
