@@ -27,10 +27,10 @@ role: "PhD Student in Music Technology"
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: kun.fang@mail.mcgill.ca
-  - name: fangk3740@gmail.com
   - name: McGill University (CIRMMT / DDMAL)
     url: https://ddmal.ca/lab_members/phd/kun_fang/
+  - name: kun.fang [at] mail.mcgill.ca
+  # - name: fangk3740@gmail.com
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
