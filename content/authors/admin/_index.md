@@ -23,10 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: "PhD Student in Music Technology<br/><span><a href='mailto:kun.fang@mail.mcgill.ca'>kun.fang@mail.mcgill.ca</a> / <a href='mailto:fangk3740@gmail.com'>fangk3740@gmail.com</a></span>"
+role: "PhD Student in Music Technology"
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - name: kun.fang@mail.mcgill.ca
+  - name: fangk3740@gmail.com
   - name: McGill University (CIRMMT / DDMAL)
     url: https://ddmal.ca/lab_members/phd/kun_fang/
 
