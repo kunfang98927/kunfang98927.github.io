@@ -13,7 +13,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: "I'm a PhD student in Music Technology at McGill University (CIRMMT / DDMAL). My work focuses on Music Information Retrieval (MIR) across symbolic and audio domains: beat tracking, key detection, chord extraction, instrument identification, and multilingual instrument metadata. Recently, I'm exploring how Large Language Models can assist music understanding and evaluation. If you're interested in collaborating on MIR, LLMs for music, or multilingual music data, feel free to reach out."
+      text: "I'm a PhD student in Music Technology at McGill University ([CIRMMT](https://www.cirmmt.org/en/) / [DDMAL](https://ddmal.ca/)). My work focuses on Music Information Retrieval (MIR) across symbolic and audio domains: beat tracking, key detection, chord extraction, instrument identification, and multilingual instrument metadata. Recently, I'm exploring how Large Language Models can assist music understanding and evaluation. If you're interested in collaborating on MIR, LLMs for music, or multilingual music data, feel free to reach out."
       # # Show a call-to-action button under your biography? (optional)
       # button:
       #   text: Download CV
