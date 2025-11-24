@@ -22,12 +22,12 @@ draft: false
 abstract: ""
 summary: ""
 
-hugoblox:
-  ids:
-    arxiv: 2507.04230
-  # Optional custom metrics
-  extra:
-    citation_count: 1
+# hugoblox:
+#   ids:
+#     arxiv: 2507.04230
+#   # Optional custom metrics
+#   extra:
+#     citation_count: 1
 
 links:
   - type: pdf

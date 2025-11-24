@@ -30,12 +30,12 @@ draft: false
 abstract: "We evaluate high-resolution sustain pedal depth estimation using musically informed metrics that better capture perceptual and performance-relevant differences."
 summary: "Submission to ICASSP 2026 on pedal depth estimation and evaluation metrics."
 
-# Identifiers (none yet)
-hugoblox:
-  ids:
-    arxiv: 2510.03750
-  extra:
-    citation_count: 0
+# # Identifiers (none yet)
+# hugoblox:
+#   ids:
+#     arxiv: 2510.03750
+#   extra:
+#     citation_count: 0
 
 # Links: add PDF when available
 links:

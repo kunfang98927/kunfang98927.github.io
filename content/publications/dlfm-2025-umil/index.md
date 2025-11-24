@@ -17,7 +17,7 @@ publication_short: "DLfM 2025"
 date: "2025-01-01T00:00:00Z"
 
 featured: false
-draft: true
+draft: false
 
 abstract: ""
 summary: ""
