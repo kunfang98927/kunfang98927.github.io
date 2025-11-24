@@ -25,6 +25,9 @@ sections:
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
+      background:
+        image:
+          filename: my-bg.jpg
       # Avatar customization
       avatar:
         size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
