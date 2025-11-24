@@ -60,14 +60,14 @@ education:
     date_start: 2024-02-01
     date_end: ""
     summary: |
-      Doctoral studies in Music Technology at McGill (CIRMMT [link](https://www.cirmmt.org/en/) / DDMAL). Advisor: Prof. Ichiro Fujinaga ([link](https://www.mcgill.ca/music/ichiro-fujinaga)) | Lab: DDMAL ([link](https://ddmal.ca/))
+      Doctoral studies in Music Technology at McGill ([CIRMMT](https://www.cirmmt.org/en/) / [DDMAL](https://ddmal.ca/)). Advisor: [Prof. Ichiro Fujinaga](https://www.mcgill.ca/music/ichiro-fujinaga))
   - area: MSc Acoustics and Music Technology (Distinction)
     institution: University of Edinburgh
     icon: ""
     date_start: 2020-09-01
     date_end: 2021-11-30
     summary: |
-      Graduated with Distinction. Dissertation: "A New Key-finding Model Suitable for Humming Based on LSTM" (Grade A). Supervisor: Prof. Mark Steedman ([link](https://homepages.inf.ed.ac.uk/steedman/))
+      Graduated with Distinction. Dissertation: "A New Key-finding Model Suitable for Humming Based on LSTM" (Grade A). Supervisor: [Prof. Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/)
   - area: BEng Software Engineering
     institution: East China Normal University
     icon: ""
@@ -77,20 +77,20 @@ education:
 work:
   - position: Research Assistant
     company_name: McGill University
-    # company_url: "https://www.mcgill.ca/"
+    company_url: "https://www.mcgill.ca/"
     icon: ""
     date_start: 2024-02-01
     date_end: ""
     summary: |
-      Working under Prof. Ichiro Fujinaga ([link](https://www.mcgill.ca/music/ichiro-fujinaga)) on Music Information Retrieval and LLM for Music Analysis.
+      Working under [Prof. Ichiro Fujinaga](https://www.mcgill.ca/music/ichiro-fujinaga) on Music Information Retrieval and LLM for Music Analysis.
   - position: Research Assistant
     company_name: Mohamed bin Zayed University of Artificial Intelligence
-    # company_url: "https://mbzuai.ac.ae/"
+    company_url: "https://mbzuai.ac.ae/"
     icon: ""
     date_start: 2022-06-01
     date_end: 2024-05-31
     summary: |
-      Worked with Prof. Gus Xia ([link](https://mbzuai.ac.ae/study/faculty/dr-gus-xia/)) on symbolic music analysis and representation learning. Lab: Music X Lab ([link](https://www.musicxlab.com/#/index))
+      Worked with [Prof. Gus Xia](https://mbzuai.ac.ae/study/faculty/dr-gus-xia/) on symbolic music analysis and representation learning. Lab: [Music X Lab](https://www.musicxlab.com/#/index)
   - position: Research Associate (Computer Science)
     company_name: New York University Shanghai
     # company_url: "https://shanghai.nyu.edu/"
@@ -98,7 +98,7 @@ work:
     date_start: 2021-11-01
     date_end: 2022-06-30
     summary: |
-      Worked with Prof. Gus Xia ([link](https://mbzuai.ac.ae/study/faculty/dr-gus-xia/)) | Music X Lab ([link](https://www.musicxlab.com/#/index)). Research in Music Information Retrieval focusing on symbolic beat tracking.
+      Worked with [Prof. Gus Xia](https://mbzuai.ac.ae/study/faculty/dr-gus-xia/) | [Music X Lab](https://www.musicxlab.com/#/index). Research in Music Information Retrieval focusing on symbolic beat tracking.
 
 # # Skills
 # # Add your own SVG icons to `assets/media/icons/`
