@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: "PhD Student in Music Technology<br/><span class='text-sm'><a href='mailto:kun.fang@mail.mcgill.ca'>kun.fang@mail.mcgill.ca</a> | <a href='mailto:fangk3740@gmail.com'>fangk3740@gmail.com</a></span>"
+role: "PhD Student in Music Technology<br/><span><a href='mailto:kun.fang@mail.mcgill.ca'>kun.fang@mail.mcgill.ca</a> / <a href='mailto:fangk3740@gmail.com'>fangk3740@gmail.com</a></span>"
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
