@@ -6,8 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+  spacing: "1rem"
 
 sections:
   - block: resume-biography-3
@@ -29,8 +28,6 @@ sections:
       background:
         image:
           filename: my-bg.jpg
-          filters:
-            brightness: 0.3
       # Avatar customization
       avatar:
         size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
