@@ -24,7 +24,7 @@ sections:
         education: ""
     design:
       # Apply a gradient background
-      css_class: hbx-bg-gradient
+      # css_class: hbx-bg-gradient
       background:
         image:
           filename: my-bg.jpg
