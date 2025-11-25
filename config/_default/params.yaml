@@ -32,20 +32,20 @@ header:
     enable: true
     block: "navbar"
     fixed_to_top: true
-    show_search: true
+    show_search: false
     show_theme_chooser: false
     logo:
       text: "Kun Fang"
 
 # Site footer
 footer:
-  copyright:
-    notice: "© {year} Kun Fang."
-    license:
-      enable: false
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+  # copyright:
+  #   notice: "© {year} Kun Fang."
+  #   license:
+  #     enable: false
+  #     allow_derivatives: false
+  #     share_alike: true
+  #     allow_commercial: false
 
 # Localization
 locale:
