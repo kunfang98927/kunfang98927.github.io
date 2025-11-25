@@ -3,8 +3,8 @@
   position: relative;
   background-size: cover;
   background-position: center;
-  --overlay-lightness: 0.62;
-  --overlay-color: 255,255,255;
+  --overlay-lightness: 0.66;
+  --overlay-color: 255, 255, 255;
   --overlay-blur: 0px;
 }
 .my-custom-style::before {
@@ -15,15 +15,31 @@
   backdrop-filter: blur(var(--overlay-blur));
   pointer-events: none;
 }
-.my-custom-style .container, .my-custom-style .section-heading, .my-custom-style .biography {
+.my-custom-style .container,
+.my-custom-style .section-heading,
+.my-custom-style .biography {
   position: relative;
   z-index: 1;
 }
 @media (prefers-color-scheme: dark) {
-  .my-custom-style::before { background: rgba(var(--overlay-color), 0.50); }
+  .my-custom-style::before {
+    background: rgba(var(--overlay-color), 0.5);
+  }
 }
 @media (min-width: 768px) {
-  .my-custom-style { padding-top: 2rem !important; padding-bottom: 2rem !important; }
+  .my-custom-style {
+    padding-top: 0rem !important;
+    padding-bottom: 0rem !important;
+  }
 }
-.my-custom-style .avatar, .my-custom-style .avatar-container { position: relative; z-index: 1; }
-.my-custom-style h1, .my-custom-style h2, .my-custom-style h3, .my-custom-style p { text-shadow: 0 1px 2px rgba(0,0,0,0.18); }
+.my-custom-style .avatar,
+.my-custom-style .avatar-container {
+  position: relative;
+  z-index: 1;
+}
+.my-custom-style h1,
+.my-custom-style h2,
+.my-custom-style h3,
+.my-custom-style p {
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.18);
+}
