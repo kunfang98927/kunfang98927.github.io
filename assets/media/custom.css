@@ -1,0 +1,23 @@
+/* Overlay + size adjustments for homepage biography background */
+.biography-hero {
+  position: relative;
+}
+.biography-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(255,255,255,0.55); /* light tint to improve text contrast */
+  pointer-events: none;
+}
+/* Removed avatar size override to allow 'large' size from theme */
+/* Optional: constrain background image height so block not too tall */
+.biography-hero {
+  background-size: cover;
+  background-position: center;
+}
+@media (min-width: 768px) {
+  .biography-hero {
+    padding-top: 2.5rem !important;
+    padding-bottom: 2.5rem !important;
+  }
+}

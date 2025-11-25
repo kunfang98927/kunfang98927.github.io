@@ -23,8 +23,7 @@ sections:
         interests: ""
         education: ""
     design:
-      # Apply a gradient background
-      # css_class: hbx-bg-gradient
+      css_class: biography-hero
       background:
         image:
           filename: my-bg.jpg
