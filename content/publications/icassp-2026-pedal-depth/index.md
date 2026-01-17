@@ -21,7 +21,7 @@ publication: "Accepted by ICASSP 2026"
 publication_short: "ICASSP 2026"
 
 # Status flags
-featured: false
+featured: true
 
 # Keep as draft=false so it appears in your list
 # Set to true only if you want to hide it temporarily.
