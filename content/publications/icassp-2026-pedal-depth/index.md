@@ -17,8 +17,8 @@ publishDate: "2025-09-20T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Venue info (submission status)
-publication: "Submitted to ICASSP 2026"
-publication_short: "ICASSP 2026 (submitted)"
+publication: "Accepted by ICASSP 2026"
+publication_short: "ICASSP 2026"
 
 # Status flags
 featured: false
@@ -28,8 +28,8 @@ featured: false
 draft: false
 
 # Optional abstract/summary placeholders
-abstract: "We evaluate high-resolution sustain pedal depth estimation using musically informed metrics that better capture perceptual and performance-relevant differences."
-summary: "Submission to ICASSP 2026 on pedal depth estimation and evaluation metrics."
+abstract: ""
+summary: ""
 
 # # Identifiers (none yet)
 # hugoblox:
