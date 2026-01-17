@@ -2,8 +2,8 @@
 # Title and basic metadata
 Title: "Evaluating High-Resolution Piano Sustain Pedal Depth Estimation with Musically Informed Metrics"
 authors:
-  - Hanwen Zhang
   - admin
+  - Hanwen Zhang
   - Ziyu Wang
   - Ichiro Fujinaga
 
@@ -43,8 +43,8 @@ links:
   - type: custom
     label: paper
     url: https://arxiv.org/pdf/2510.03750
-#   - type: code
-#     url: ""
+  # - type: code
+  #   url: ""
 #   - type: dataset
 #     url: ""
 
@@ -61,5 +61,3 @@ image:
 projects: []
 slides: ""
 ---
-
-If you want to add details later, we can include task-specific figures, metric definitions, and links to code/data once they are public.
