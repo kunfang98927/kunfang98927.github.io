@@ -1,23 +1,21 @@
 ---
 # Title and basic metadata
-Title: "Evaluating High-Resolution Piano Sustain Pedal Depth Estimation with Musically Informed Metrics"
+title: "Evaluating High-Resolution Piano Sustain Pedal Depth Estimation with Musically Informed Metrics"
 authors:
   - admin
   - Hanwen Zhang
   - Ziyu Wang
   - Ichiro Fujinaga
 
-# Use a near-future date so it sorts above older items
-# Adjust once accepted/published.
-date: "2025-09-20T00:00:00Z"
-publishDate: "2025-09-20T00:00:00Z"
+# Conference date (ICASSP 2026, May 2026)
+date: "2026-05-04T00:00:00Z"
+publishDate: "2026-05-04T00:00:00Z"
 
 # Publication type from CSL
-# For conference submissions, use paper-conference
 publication_types: ["paper-conference"]
 
-# Venue info (submission status)
-publication: "Accepted by ICASSP 2026"
+# Venue info
+publication: "In Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2026, Barcelona, Spain"
 publication_short: "ICASSP 2026"
 
 # Status flags
