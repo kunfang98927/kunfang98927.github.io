@@ -12,7 +12,7 @@ publication_short: "arXiv 2026"
 date: "2026-07-24T00:00:00Z"
 publishDate: "2026-07-24T00:00:00Z"
 
-featured: false
+featured: true
 draft: false
 
 abstract: ""

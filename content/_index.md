@@ -60,6 +60,8 @@ sections:
     content:
       title: Recent Publications
       text: ""
+      # 0 = show all publications (no "See all" link)
+      count: 0
       filters:
         folders:
           - publications

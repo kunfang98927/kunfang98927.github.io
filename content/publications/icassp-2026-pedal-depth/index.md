@@ -2,8 +2,8 @@
 # Title and basic metadata
 title: "Evaluating High-Resolution Piano Sustain Pedal Depth Estimation with Musically Informed Metrics"
 authors:
-  - admin
   - Hanwen Zhang
+  - admin
   - Ziyu Wang
   - Ichiro Fujinaga
 
