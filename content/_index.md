@@ -13,7 +13,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: "I'm a PhD student in Music Technology at McGill University ([CIRMMT](https://www.cirmmt.org/en/) / [DDMAL](https://ddmal.ca/)), building data-driven systems that understand, describe, and evaluate music. My research spans symbolic and audio MIR: beat tracking, key & chord estimation, piano performance analysis, instrument identification, and multilingual instrument metadata. I currently focus on coupling established MIR pipelines with Large Language Models to advance automatic musical analysis, and evaluation. If you'd like to collaborate on MIR, LLMs for music, or multilingual music data, feel free to reach out."
+      text: "I'm a PhD student in Music Technology at McGill University ([CIRMMT](https://www.cirmmt.org/en/) / [DDMAL](https://ddmal.ca/)). My research centers on two directions: large language models for music understanding, where I study whether audio-language models truly ground their answers in what they hear, and music representation learning, including learning world models of sound from performance actions. I also work on piano performance analysis, such as high-resolution sustain pedal estimation. If you'd like to collaborate on MIR, LLMs for music, or music representation learning, feel free to reach out."
       # # Show a call-to-action button under your biography? (optional)
       # button:
       #   text: Download CV

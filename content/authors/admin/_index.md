@@ -49,9 +49,10 @@ profiles:
     url: https://scholar.google.ca/citations?user=S09YfQYAAAAJ
 
 interests:
-  - Music Information Retrieval (MIR)
-  - Symbolic & Audio Music Analysis
   - Large Language Models for Music Understanding
+  - Music Representation Learning
+  - Music Information Retrieval (MIR)
+  - Piano Performance Analysis
 
 education:
   - area: PhD Music Technology
